@@ -48,3 +48,5 @@ print("✅ 你的 RTX 5060 显卡已被 **充分利用**")
 print("✅ CUDA 核心算力正常工作")
 print("✅ 显存分配/读写无任何问题")
 print("✅ PyTorch + GPU 环境完美适配")
+
+print(666)
